@@ -7,7 +7,7 @@
 - One can learn how to animations,states,ranges,screens,userdefined Widgets in flutter App
 <br> <br>
 
-![s1](https://github.com/vishal-mourya/xylophone-app/blob/main/s1.jpeg?raw=true) <br> <br>
+![s1](https://github.com/vishal-mourya/bmi-calculator/blob/main/demo.gif?raw=true) <br> <br>
 
 - Still Working on Improvements
 
